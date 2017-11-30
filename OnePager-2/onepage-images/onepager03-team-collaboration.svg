@@ -1,0 +1,28 @@
+<svg width="195px" height="160px" viewBox="0 0 195 116" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+     <g id="team-collaboration-hero" transform="translate(-1.000000, -16.000000)">
+        <g transform="translate(1.000000, 16.000000)">
+           <g>
+              <path d="M127.595294,107 L119.954961,113.855331 C116.666127,116.806255 114.676658,115.677066 115.507767,111.35191 L116.599743,105.669175 C109.799968,102.933716 105,96.2785391 105,88.5 C105,78.2827321 113.278703,70 123.505502,70 L141.494498,70 C151.714805,70 160,78.2804856 160,88.5 C160,98.7172679 151.721297,107 141.494498,107 L127.595294,107 Z" stroke="#1E2024" fill="#E8E8E8" transform="translate(132.500000, 92.750247) scale(-1, 1) translate(-132.500000, -92.750247)">
+              </path>
+              <!-- lines -->
+              <circle class="dot-typing i--delayfl" stroke="#464C58" fill="#FFFFFF" cx="143.5" cy="88.5" r="3.5"></circle>
+              <circle class="dot-typing i--delayfl-03" stroke="#464C58" fill="#FFFFFF" cx="132.5" cy="88.5" r="3.5"></circle>
+              <circle class="dot-typing i--delayfl-04" stroke="#464C58" fill="#FFFFFF" cx="121.5" cy="88.5" r="3.5"></circle>
+           </g>
+           <path d="M59.0021816,61.9591837 L49.0735175,70.7088005 C45.7574836,73.6310493 43.6497324,72.4706575 44.3674886,68.1062604 L45.6596858,60.2489102 C37.063195,56.7640427 31,48.3317891 31,38.4795918 C31,25.5121713 41.5150186,15 54.4710001,15 L96.5289999,15 C109.491675,15 120,25.5093202 120,38.4795918 C120,51.4470123 109.484981,61.9591837 96.5289999,61.9591837 L59.0021816,61.9591837 Z" stroke="#1E2024" fill="#FFFFFF">
+           </path>
+           <rect fill="#464C58" x="80" y="29" width="20" height="1"></rect>
+           <circle stroke="#9D900C" fill="#FAEBA5" cx="55" cy="38" r="16"></circle>
+           <circle class="eye" fill="#69600A" cx="50" cy="34" r="2"></circle>
+           <g class="eye-line" stroke="#69600B" stroke-linecap="square">
+              <path d="M49.5,49.5 L52.5,49.5" transform="translate(-1, -16)"></path>
+           </g>
+           <circle fill="#69600A" cx="60" cy="34" r="2"></circle>
+           <path d="M46,41 C46,44 49.6,48 55,48 C60.4,48 64,44 64,41 C59.5,41 50.4999999,41 46,41 Z" stroke="#9D900C" fill="#FFFFFF"></path>
+           <rect fill="#464C58" x="80" y="37" width="16" height="1"></rect>
+           <rect fill="#464C58" x="80" y="45" width="20" height="1"></rect>
+        </g>
+     </g>
+  </g>
+</svg>

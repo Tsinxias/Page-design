@@ -1,0 +1,38 @@
+<svg width="157px" height="160px" viewBox="0 0 157 157" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+     <g transform="translate(-25.000000, -2.000000)">
+        <g transform="translate(26.000000, 3.000000)">
+           <g class="clock-start">
+              <rect stroke="#1E2024" fill="#FFFFFF" x="75" y="37" width="5" height="12"></rect>
+              <rect stroke="#1E2024" fill="#FFFFFF" x="73" y="32" width="9" height="5" rx="1"></rect>
+              <rect stroke="#1E2024" fill="#FFFFFF" x="67" y="35" width="21" height="5" rx="9"></rect>
+              <rect fill="#1E2024" x="69" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="71" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="73" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="75" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="77" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="79" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="81" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="83" y="35" width="1" height="5"></rect>
+              <rect fill="#1E2024" x="85" y="35" width="1" height="5"></rect>
+              <g>
+                 <circle stroke="#1E2024" fill="#FFFFFF" cx="77.5" cy="76.5" r="32.5"></circle>
+                 <circle class="dot-typing i--pulse" stroke="#121316" stroke-dasharray="1,2" cx="77.5" cy="77.5" r="47.5"></circle>
+                 <circle class="dot-typing i--pulse-03" stroke="#121316" stroke-dasharray="1,2" cx="77.5" cy="77.5" r="62.5"></circle>
+                 <circle class="dot-typing i--pulse-04" stroke="#121316" stroke-dasharray="1,2" cx="77.5" cy="77.5" r="77.5"></circle>
+                 <circle stroke="#1E2024" fill="#ECEEF2" cx="77.5" cy="76.5" r="29.5"></circle>
+                 <circle stroke="#1E2024" fill="#FFFFFF" cx="87.5" cy="87.5" r="8.5"></circle>
+                 <rect class="clock-small-needle" fill="#1E2024" x="87" y="87" width="1" height="6"></rect>
+                 <rect fill="#1E2024" x="77" y="47" width="1" height="5"></rect>
+                 <rect fill="#1E2024" x="77" y="101" width="1" height="5"></rect>
+                 <rect fill="#1E2024" x="48" y="76" width="5" height="1"></rect>
+                 <rect fill="#1E2024" x="102" y="76" width="5" height="1"></rect>
+                 <circle stroke="#1E2024" fill="#FFFFFF" cx="87.5" cy="87.5" r="1.5"></circle>
+                 <path d="M53,64.022557 C57.3303793,60.270402 62.9796884,58 69.1592784,58 C69.2944439,58 69.4293558,58.0010862 69.5640057,58.0032504 L69.5640057,83.7627703 L53,64.022557 Z" fill="#98E296" transform="translate(61.282003, 70.881385) rotate(-42.000000) translate(-61.282003, -70.881385) ">
+                 </path>
+              </g>
+           </g>
+        </g>
+     </g>
+  </g>
+</svg>
