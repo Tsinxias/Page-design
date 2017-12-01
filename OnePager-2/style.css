@@ -219,12 +219,47 @@ input {
   font-size: 100%;
   padding: 15px 10px;
   box-sizing: border-box;
-}
-
-.sign_in button {
-  justify-content: center;
 
 }
+
+input [type="submit"] {
+  padding-bottom: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.sign_in p {
+  font-size: 100%;
+  color: black;
+}
+
+.notice {
+  color: lightgrey;
+  font-size: 80%;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
